@@ -23,7 +23,6 @@
   <component name="ProjectId" id="2Za8APNwe25vHDfXFWsjgrt8TeC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702648687478</updated>
       <workItem from="1702648688471" duration="1661000" />
-      <workItem from="1702650868807" duration="1536000" />
+      <workItem from="1702650868807" duration="1824000" />
     </task>
     <task id="LOCAL-00001" summary="ITSource 优化">
       <option name="closed" value="true" />
@@ -103,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702652174256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ITSource 优化">
+      <option name="closed" value="true" />
+      <created>1702652474064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652474064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ITSource 优化">
+      <option name="closed" value="true" />
+      <created>1702652502241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652502241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
