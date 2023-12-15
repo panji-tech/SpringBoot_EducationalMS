@@ -4,214 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30dca045-08ae-4d80-8b90-b0b8b52642e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_edu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liujiajun/SpringbootEduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liujiajun/SpringbootEduApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liujiajun/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liujiajun/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/SpringbootEduApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/SpringbootEduApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/config/RedisConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/config/RedisConfig$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/config/RedisConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/config/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/config/ShiroConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/config/WebMvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/RestPasswordController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/RestPasswordController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/TeacherController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/converter/CustomDateConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/controller/converter/CustomDateConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/exception/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/exception/CustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/exception/CustomExceptionResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/exception/CustomExceptionResolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CollegeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CollegeMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CourseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CourseMapperCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/CourseMapperCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/RoleMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/SelectedcourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/SelectedcourseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/StudentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/StudentMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/StudentMapperCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/StudentMapperCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/TeacherMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/TeacherMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/TeacherMapperCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/TeacherMapperCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/UserloginMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/UserloginMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/UserloginMapperCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/mapper/UserloginMapperCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CheckUserId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CheckUserId.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/College.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/College.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CollegeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/CourseExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/RoleExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedCourseCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedCourseCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Selectedcourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Selectedcourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/SelectedcourseExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/StudentExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/TeacherExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Userlogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/Userlogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$Criteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample$GeneratedCriteria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/po/UserloginExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/realm/LoginRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/realm/LoginRealm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/CourseService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/RoleService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/SelectedCourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/SelectedCourseService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/StudentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/TeacherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/TeacherService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/UserloginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/UserloginService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/CourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/CourseServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/SelectedCourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/SelectedCourseServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/StudentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/TeacherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/TeacherServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/UserloginServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liujiajun/service/impl/UserloginServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/liujiajun/SpringbootEdu01ApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/liujiajun/SpringbootEduApplicationTests.class" beforeDir="false" />
-    </list>
+    <list default="true" id="30dca045-08ae-4d80-8b90-b0b8b52642e4" name="Changes" comment="ITSource 优化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,6 +34,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.SpringbootEduApplication.executor": "Debug",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
@@ -254,7 +48,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -299,11 +93,24 @@
       <option name="presentableId" value="Default" />
       <updated>1702648687478</updated>
       <workItem from="1702648688471" duration="1661000" />
-      <workItem from="1702650868807" duration="1254000" />
+      <workItem from="1702650868807" duration="1536000" />
     </task>
+    <task id="LOCAL-00001" summary="ITSource 优化">
+      <option name="closed" value="true" />
+      <created>1702652174256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652174256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ITSource 优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="ITSource 优化" />
   </component>
 </project>
